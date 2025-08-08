@@ -1,5 +1,5 @@
 
-1. Settings to configure Windows 10: xxxx
+1. Settings to configure Windows 10: ssssss  dddddddd
 Description: A user-friendly interface for customizing various aspects of Windows 10.
 Use case: Personalizing your computer's appearance, managing privacy settings, or setting up devices.
 Example: 
